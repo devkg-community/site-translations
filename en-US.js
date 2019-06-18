@@ -89,7 +89,9 @@ export default {
     website: 'Website',
     exit: 'Logout',
     logo: 'Developers community DevKG',
-    language: 'Language'
+    language: 'Language',
+    city: 'City',
+    phone: 'Phone',
   },
   menu: {
     jobs: 'Vacancies',
