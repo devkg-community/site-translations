@@ -89,7 +89,8 @@ export default {
     website: 'Веб-сайт',
     exit: 'Выйти',
     logo: 'Сообщество разработчиков DevKG',
-    language: 'Язык'
+    language: 'Язык',
+    city: 'Город',
   },
   menu: {
     jobs: 'Вакансии',
