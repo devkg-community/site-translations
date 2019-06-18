@@ -91,6 +91,7 @@ export default {
     logo: 'Сообщество разработчиков DevKG',
     language: 'Язык',
     city: 'Город',
+    phone: 'Телефон',
   },
   menu: {
     jobs: 'Вакансии',
