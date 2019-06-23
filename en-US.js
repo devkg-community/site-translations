@@ -35,10 +35,13 @@ export default {
     dashboard: {
       meetups_index: 'Your conferences - DevKG',
       meetups_create: 'Create new conference- DevKG',
+      meetups_update: 'Update conference - DevKG',
       jobs_index: 'Your conferences - DevKG',
       jobs_create: 'Create new vacancy- DevKG',
+      jobs_update: 'Update vacancy - DevKG',
       events_index: 'Your events- DevKG',
       events_create: 'Create new event- DevKG',
+      events_update: 'Update event - DevKG',
       management_index: 'Management - DevKG',
       organizations_index: 'Organizations - DevKG',
       organizations_create: 'Create new organizations - DevKG'
@@ -139,6 +142,7 @@ export default {
     video: 'YouTube link or video ID'
   },
   jobs: {
+    archived: 'This vacancy was archived.',
     share: 'Share',
     spec: 'Vacancy description'
   },
@@ -176,6 +180,7 @@ export default {
       create: 'Create conference',
       title: 'Your conferences',
       subtitle: 'Create new conference',
+      update: 'Update conference',
       sub_description: 'Your video conference will be published on the website and in the Telegram channel after it will be approved by administrators. Advertisement, indecent and not IT related materials must not be published and will be declined.',
       spec_description: 'You can describe your video conference here, what is going to be discussed and who will talk about it.',
       picture_description: 'You can upload a background here. It will help you to make your card more attractive',
@@ -187,6 +192,7 @@ export default {
       question: 'Would you like to create a vacancy?',
       create: 'Create vacancy',
       subtitle: 'Create new vacancy',
+      update: 'Update vacancy',
       sub_description: 'Your vacancy will be published on the website and in the Telegram channel, right after administrators approve',
       title: 'Your vacancies',
       price_notice: 'Salary range - required field. This will significantly increase your chances to find a good candidate',
@@ -200,6 +206,7 @@ export default {
       create: 'Create event',
       title: 'Your event',
       subtitle: 'Create new event',
+      update: 'Update event',
       sub_description: 'Your event will be published on the website and in the Telegram channel, right after administrators approve. Advertisement, indecent and not IT related materials must not be published and will be declined.',
       picture_description: 'You can upload a background here. It will help you to make your card more attractive',
       picture_notice: 'Please, do not use pictures with the text, all required information will be fulfilled automatically.',
